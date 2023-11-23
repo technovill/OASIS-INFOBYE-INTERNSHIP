@@ -1,2 +1,1 @@
-# OASIS-INFOBYE-INTERNSHIP
-AUTHOR iram khan
+Oasis infobyte internship task 1 
